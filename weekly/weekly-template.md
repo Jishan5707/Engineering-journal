@@ -1,30 +1,52 @@
-Weekly template
-Save as weekly/2026-W32.md:
+# Week XX — MMM DD to MMM DD, 2026
 
-# Week 32 — Aug 3 to Aug 7, 2026
+## 🎯 Top Accomplishments
 
-## Shipped
- - <what you finished> — PR #
+- <feature/fix shipped> — <brief impact>
+- <feature/fix shipped> — <brief impact>
 
-## Still working on
- - <task> — <what is blocking it>
+## 📦 Shipped
 
-## Problems solved
- - <the problem> → <how you fixed it>
+- <what you finished> — PR #XXX
+  - Impact: <how this helps users/team>
 
-## Learned
- -
+## 🔧 Still Working On
 
-## Numbers
- - <thing>: before → after
+- <task> 
+  - Blocker: <what is blocking it>
+  - Expected completion: <when>
 
-## Feedback / praise
- - "<exact words>" — <who said it>, <where>
+## 🐛 Problems Solved
 
-## Worth remembering forever
- - [ ] <copy this line into brag-doc.md>
+- **Problem:** <the problem>
+  - **Solution:** <how you fixed it>
+  - **Result:** <what improved>
 
-## Next week — top 3
- 1.
- 2.
- 3.
+## 💡 Learned
+
+- **Technical:** <concept/pattern/tool learned>
+- **Process:** <workflow or approach improvement>
+- **About team/product:** <insight gained>
+
+## 📊 Numbers
+
+- <metric>: before → after
+- <metric>: before → after
+
+## 👏 Feedback / Praise
+
+- "<exact words>" — <who said it>, <context/where>
+
+## ⚠️ Blockers & Risks
+
+- <blocker> — <what's needed to unblock>
+
+## 🎓 Worth Remembering Forever
+
+- [ ] <copy significant achievement or learning to brag-doc.md>
+
+## 🎯 Next Week — Top 3 Priorities
+
+1. <specific task/goal>
+2. <specific task/goal>
+3. <specific task/goal>

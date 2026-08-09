@@ -1,38 +1,41 @@
-Monthly template
-Save as monthly/2026-08.md. Open your 4 weekly files and pull from them.
+# MMMM 2026
 
-# August 2026
-
-## Theme
+## 🎯 Theme
 
 <one line — what was this month mostly about?>
 
-## Top 3 things I finished
+## 🏆 Top 3 Things I Finished
 
-1.
-2.
-3.
+1. <achievement> — <brief impact>
+2. <achievement> — <brief impact>
+3. <achievement> — <brief impact>
 
-## Numbers
+## 📊 Numbers
 
-- <thing>: before → after
+- <metric>: before → after
+- <metric>: before → after
 
-## Biggest problem I solved
+## 🐛 Biggest Problem I Solved
 
-- <problem> → <how>
+- **Problem:** <the problem>
+- **Solution:** <how I fixed it>
+- **Impact:** <what improved>
 
-## Learned
+## 💡 Learned
 
--
+- <key insight or pattern>
+- <process or workflow improvement>
+- <tool or technology breakthrough>
 
-## Feedback / praise
+## 👏 Feedback / Praise
 
-- "<exact words>" — <who>
+- "<exact words>" — <who>, <context>
 
-## What did not move, and why
+## ⚠️ What Did Not Move, and Why
 
--
+- <blocked item> — <reason/blocker>
 
-## Next month — focus on
+## 🎯 Next Month — Focus On
 
--
+1. <priority>
+2. <priority>

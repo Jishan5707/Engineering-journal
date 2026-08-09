@@ -1,41 +1,53 @@
-Yearly template
+# 2026
 
-Save as yearly/2026.md. Open your 4 quarterly files. Mostly copy and tighten.
+## 📖 Story of the Year
 
-#2026
+<3 sentences capturing: where I started → what I worked on → where I ended>
 
-## Story of the year <3 sentences - where I started, what I worked on, where I ended>
+## 🏆 Top 5 Achievements
 
-## Top 5 achievements
+1. <achievement — copied from quarterly, made concise>
+2. <achievement — copied from quarterly, made concise>
+3. <achievement — copied from quarterly, made concise>
+4. <achievement — copied from quarterly, made concise>
+5. <achievement — copied from quarterly, made concise>
 
-1. <copied from quarterly, made
+## 📊 Impact Summary
 
-shorter>
+| Metric   | Start of Year | End of Year |
+| -------- | ------------- | ----------- |
+| <metric> | X             | Y           |
+| <metric> | X             | Y           |
+| <metric> | X             | Y           |
 
-2.
+## 📈 How I Grew
 
-3.
+**At the start of the year I could not:**
 
-4.
+- <skill/capability>
+- <skill/capability>
 
-5.
+**Now I can:**
 
-## Impact summary
+- <skill/capability>
+- <skill/capability>
 
-| What | Start of year
+**New technologies I actually used (not just read about):**
 
-End of year |
+- <technology/tool>
+- <technology/tool>
 
-## How I grew
+**People I helped or mentored:**
 
-At the start of the year I could not:
+- <person/team> — <how I helped>
+- <person/team> — <how I helped>
 
-Now I can:
+## 💡 Biggest Lesson
 
-New technologies I actually used (not just read about):
+<key insight or wisdom gained from this year>
 
-People I helped or mentored:
+## 🚀 What I Want to Be True by December 2027
 
-## Biggest lesson
-
-## What I want to be true by December 2027
+- <long-term goal>
+- <long-term goal>
+- <long-term goal>

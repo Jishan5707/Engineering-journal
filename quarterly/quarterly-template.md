@@ -1,49 +1,52 @@
-Quarterly template
-
-Save as quarterly/2026-Q3.md. Open your 3 monthly files. This is the one you show your manager.
-
 # 2026 Q3 (July - September)
 
-## Headline
+## 🎯 Headline
 
 <one line your manager can repeat to their boss>
 
-## My best work this quarter
+## 🏅 My Best Work This Quarter
 
 ### 1. <title>
 
-- **The problem:**
+- **The problem:** <what was broken/needed>
+- **What I did:** <your solution/implementation>
+- **What I chose not to do, and why:** <scope/trade-off decisions>
+- **Result (with numbers):** <impact with metrics>
+- **Proof:** PR #XXX, ticket #, dashboard link, or quote
 
-- **What I did:**
+### 2. <title>
 
-- **What I chose not to do, and why.**
+- **The problem:** <what was broken/needed>
+- **What I did:** <your solution/implementation>
+- **What I chose not to do, and why:** <scope/trade-off decisions>
+- **Result (with numbers):** <impact with metrics>
+- **Proof:** PR #XXX, ticket #, dashboard link, or quote
 
-- **Result (with numbers):**
+### 3. <title>
 
-- **Proof:** PR #, ticket, dashboard,
+- **The problem:** <what was broken/needed>
+- **What I did:** <your solution/implementation>
+- **What I chose not to do, and why:** <scope/trade-off decisions>
+- **Result (with numbers):** <impact with metrics>
+- **Proof:** PR #XXX, ticket #, dashboard link, or quote
 
-quote
+## 🌟 Where I Worked Beyond My Own Tasks
 
-### 2. <title> (same 5 lines)
+- **Figured out on my own (no one told me how):** <skill/insight gained>
+- **Helped other teams / people:** <who and what>
+- **Made my team faster by:** <efficiency improvement>
 
-### 3. <title> (same 5 lines)
+## 👏 Feedback I Received
 
-## Where I worked beyond my own tasks
+"<exact words>" — <who>, <context>
 
-Figured out on my own (no one told me how):
+## 📈 What I Want to Get Better At
 
-Helped other teams / people:
+- <skill or area>
+- <skill or area>
 
-Made my team faster by.
+## 🎯 Next Quarter - 3 Goals
 
-## Feedback I received "<exact words>" - <who>
-
-## What I want to get better at
-
-## Next quarter - 3 goals
-
-1.
-
-2.
-
-3.
+1. <specific goal>
+2. <specific goal>
+3. <specific goal>

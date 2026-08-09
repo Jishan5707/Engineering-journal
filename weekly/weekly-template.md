@@ -1,4 +1,4 @@
-# Week XX — MMM DD to MMM DD, 2026
+# Week XX — MM DD to MM DD, 2026
 
 ## 🎯 Top Accomplishments
 

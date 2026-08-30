@@ -4,38 +4,68 @@
 
 <one line — what was this month mostly about?>
 
-## 🏆 Top 3 Things I Finished
+## 🏆 Major Accomplishments
 
 1. <achievement> — <brief impact>
 2. <achievement> — <brief impact>
 3. <achievement> — <brief impact>
+4. <achievement> — <brief impact> (add as many as needed)
 
-## 📊 Numbers
+## 📦 Shipped
 
-- <metric>: before → after
-- <metric>: before → after
+- <what went to production/release — artifact/version if applicable>
+- <what went to production/release — artifact/version if applicable>
+- <what went to production/release — artifact/version if applicable>
 
-## 🐛 Biggest Problem I Solved
+## 📊 Key Numbers
 
-- **Problem:** <the problem>
-- **Solution:** <how I fixed it>
-- **Impact:** <what improved>
+| Metric                             | Count/Result | Impact            |
+| ---------------------------------- | ------------ | ----------------- |
+| <metric (e.g., PRs merged)>        | X            | <what this means> |
+| <metric (e.g., releases deployed)> | X            | <what this means> |
+| <metric (e.g., bugs fixed)>        | X            | <what this means> |
+
+## 🐛 Problems I Solved
+
+- **Problem:** <issue> → **Solution:** <how fixed> → **Impact:** <result>
+- **Problem:** <issue> → **Solution:** <how fixed> → **Impact:** <result>
+- **Problem:** <issue> → **Solution:** <how fixed> → **Impact:** <result> (add as many as needed)
 
 ## 💡 Learned
 
-- <key insight or pattern>
-- <process or workflow improvement>
-- <tool or technology breakthrough>
+- **Technical:** <concept/tool/pattern learned>
+  - <related insight or application>
+- **Process:** <workflow or approach improvement>
+  - <how this will help in future>
+- **About the team/product:** <team dynamics or product insight>
+  - <what this reveals about how we work>
 
 ## 👏 Feedback / Praise
 
-- "<exact words>" — <who>, <context>
+- "<exact words>" — <who>, <context/where>
+  - What this feedback meant to you
+- <pattern if feedback repeated across multiple people>
 
-## ⚠️ What Did Not Move, and Why
+## ⚠️ Blockers & Risks
 
-- <blocked item> — <reason/blocker>
+- **Blocked:** <what's stuck and why — external dependency, access, etc.>
+- **Blocked:** <what's stuck and why>
+- **Risk for next month:** <what might become an issue>
 
-## 🎯 Next Month — Focus On
+## 📉 What Did Not Move, and Why
 
-1. <priority>
-2. <priority>
+- **Deprioritized:** <item intentionally not done — why decision was made>
+- **Deprioritized:** <item intentionally not done — why decision was made>
+- **On hold:** <waiting for external factor — when it might resume>
+
+## 🎓 Worth Remembering Forever
+
+- [ ] <actionable lesson or insight for future months>
+- [ ] <pattern observed that applies to future work>
+- [ ] <skill or capability gained>
+
+## 🎯 Next Month — Top 3 Priorities
+
+1. <specific goal with success criteria if possible>
+2. <specific goal with success criteria if possible>
+3. <specific goal with success criteria if possible>
